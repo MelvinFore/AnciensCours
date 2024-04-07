@@ -1,1 +1,1 @@
-Voici des aciens projet marquant de ma licence informatique.
+Voici des anciens projets marquant de ma licence informatique.
